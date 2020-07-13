@@ -1,0 +1,38 @@
+11:17:42.362 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:17:42.369 [main] INFO  dev.console.App - Implementation Logback
+11:18:32.290 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour
+11:20:41.404 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour
+11:20:50.488 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour
+11:20:54.514 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour
+11:21:39.814 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:21:39.819 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:21:39.819 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:21:39.819 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
+11:22:27.812 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:22:27.816 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:22:27.816 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:22:27.816 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
+11:22:39.650 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:22:39.656 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:22:39.656 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:22:39.656 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
+11:24:29.780 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:24:29.786 [main] INFO  dev.console.App - Implementation Logback
+11:24:51.583 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:24:51.589 [main] INFO  dev.console.App - Implementation Logback
+11:25:06.016 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:25:06.026 [main] INFO  dev.console.App - Implementation Logback
+11:25:31.498 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:25:31.503 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:25:31.503 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:25:31.503 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
+11:26:14.287 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:26:14.291 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:26:14.291 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:26:14.291 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
+11:27:01.243 [main] INFO  dev.console.App - Bonjour Slf4J !
+11:27:01.261 [main] INFO  dev.console.App - Implementation Logback
+11:27:25.590 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 1
+11:27:25.594 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 2
+11:27:25.594 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 3
+11:27:25.594 [main] DEBUG dev.service.AppService - Traitement 1 : param = bonjour 4
